@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidade</title>
+</head>
+<body>
+    <h1>Política de Privacidade</h1>
+    <p>Esta Política de Privacidade descreve como coletamos, usamos e protegemos suas informações ao utilizar nosso bot:</p>
+    <ul>
+        <li><strong>Coleta de Dados:</strong> Coletamos informações que você fornece diretamente, como comandos e mensagens enviadas ao bot. Também podemos coletar dados sobre sua interação com o bot, como logs de uso e erros.</li>
+        <li><strong>Uso de Dados:</strong> Usamos suas informações para operar, manter e melhorar o bot. Isso pode incluir personalização da experiência, resolução de problemas e análise de desempenho.</li>
+        <li><strong>Compartilhamento de Dados:</strong> Não compartilhamos suas informações com terceiros, exceto quando necessário para cumprir obrigações legais ou proteger nossos direitos.</li>
+        <li><strong>Segurança:</strong> Tomamos medidas para proteger suas informações, mas não garantimos segurança absoluta. O uso do bot é por sua conta e risco.</li>
+        <li><strong>Alterações:</strong> Podemos atualizar esta política periodicamente. Recomendamos que você revise esta página regularmente para estar ciente de quaisquer alterações.</li>
+    </ul>
+    <p>Se você tiver dúvidas ou preocupações sobre nossa política de privacidade, entre em contato conosco.</p>
+</body>
+</html>
